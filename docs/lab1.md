@@ -19,6 +19,9 @@ Access your Jumpbox from your Cloud9 IDE
 ssh -i ./key.pem ubuntu@<jumpbox>
 ```
 You can use this key to access all the other hosts in the labs. Simply copy the key and set the correct permissions.
+```
+scp -i key.pem ./key.pem ubuntu@<jumpbox>:key.pem
+```
 
 ## Deploy fortigatecnf
 - Install / verify cross account setup
