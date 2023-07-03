@@ -32,8 +32,8 @@ git clone https://github.com/40net-cloud/xpert2023_aws_networking_demystified.gi
 ## LAB 1: Deploy a fortigatecnf playground for intra-subnet / single vpc
 See [lab1](./docs/lab1.md)
 
-## LAB 2: Deploy a fortigatecnf playground fortransit gateway use-case
-See [lab2](./docs/lab2.md)
+//## LAB 2: Deploy a fortigatecnf playground fortransit gateway use-case
+//See [lab2](./docs/lab2.md)
 
 ### CLEANUP 
 At the end of our session: 
