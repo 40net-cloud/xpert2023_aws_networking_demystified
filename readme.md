@@ -40,7 +40,6 @@ At the end of our session:
 - destroy your terraform infra `terraform destroy`
 - remove all registered accounts from the Fortigate CNF UI
 - remove cloudformation `FortinetFWaaSCrossAccountSetup` from AWS region `Oregon`
-- remove the access key and secret (NOT the IAM user !!)
 - remove your Cloud9 instance
 
 Thx, the next student will thank you as well as the instructor who knows your name ;-)
