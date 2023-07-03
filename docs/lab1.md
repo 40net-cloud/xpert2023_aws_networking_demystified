@@ -45,7 +45,7 @@ In the next part of the LAB, we'll setup FortigateCNF to inspect traffic in betw
   Use `Ireland region - eu-west-1`<br>
   When completed, you can find the endpoint name in the AWS console.
 
-- Update the TF `varables.tf` with GWLBe name and re-run TF
+- Update the TF `variables.tf` with GWLBe name and re-run TF
 
 - Traffic should be routed through Fortigate CNF
   
