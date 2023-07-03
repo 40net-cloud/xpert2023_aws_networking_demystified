@@ -1,0 +1,10 @@
+#cloud-config
+fqdn: ${hostname}
+package_upgrade: true
+packages:
+  - nginx
+  - nmap
+runcmd:
+  - [ sh, -c, useradd -s /bin/bash -m ${username} -g users && echo "${username}:${password}" | chpasswd ]
+  - [ sh, -c, usermod -aG sudo ${username} ]
+final_message: "The system is finally up, after $UPTIME seconds"
