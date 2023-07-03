@@ -26,7 +26,7 @@ scp -i key.pem ./key.pem ubuntu@<jumpbox>:key.pem
 <img src="..\images\flow_diagram.png">
 
 ## Things to try
-- traffic is allowed on port 8080 and 8090
+- traffic is allowed on port 8080 and 8090 on both ec2 instances (wwwdemo2 and and wwwdemo3)
 - checkout the routing
 - check egress connectivity (ex. `curl https://www.fortinet.com`)
 
