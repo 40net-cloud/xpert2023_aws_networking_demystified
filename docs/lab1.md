@@ -23,7 +23,7 @@ You can use this key to access all the other hosts in the labs. Simply copy the 
 scp -i key.pem ./key.pem ubuntu@<jumpbox>:key.pem
 ```
 ## Test connectivity
-<img src=".\images\flow_diagram.png">
+<img src="..\images\flow_diagram.png">
 
 ## Deploy fortigatecnf
 - Install / verify cross account setup
