@@ -32,7 +32,7 @@ git clone https://github.com/40net-cloud/xpert2023_aws_networking_demystified.gi
 ## LAB 1: Deploy a fortigatecnf playground for intra-subnet / single vpc
 See [lab1](./docs/lab1.md)
 
-## CLEANUP 
+## Cleanup 
 At the end of our session: 
 - remove the endpoints form your TF `variables.tf`
 - re-run your TF `terraform apply`
