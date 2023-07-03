@@ -12,7 +12,8 @@ student<xx>@kubiosec.tech / Password (see your instructor)
 ```
 
 ## 2. Prepare a LAB environment
-<img src="markdownmonstericon.png">
+<img src=".\images\management-access.png">
+
 ### Cloud9 AWS environment
 Use region `eu-west-1` (ireland) <br>
 Create an AWS Cloud9 instance.
