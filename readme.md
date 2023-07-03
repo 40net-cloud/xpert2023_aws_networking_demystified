@@ -4,11 +4,11 @@
 ### AWS Console
 Access the AWS console Access the AWS console [https://aws.amazon.com/console/](https://aws.amazon.com/console/)
 ```
-AccountID / IAM user name / Password <see your instructor>
+AccountID / IAM user name / Password (see your instructor)
 ```
 ### Forticloud / FortigateCNF
 ```
-student<xx>@kubiosec.tech / <see your instructor>
+student<xx>@kubiosec.tech / Password (see your instructor)
 ```
 
 ## 2. Prepare a LAB environment
@@ -16,9 +16,8 @@ student<xx>@kubiosec.tech / <see your instructor>
 Use region `eu-west-1` (ireland) <br>
 Create an AWS Cloud9 instance.
 
-### Create an AWS access key and secret
-Login the AWS console and create an **access key** and **secret** under the IAM user `studentcnp`<br>
-Note the access key and secret.
+### AWS access key and secret
+An AWS_ACCESS_KEY and AWS_SECRET_KEY is already created (see your instructor)
 
 ### Subscribe to the ubuntu-jammy
 Goto `https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe` and subscribe and accept the terms.
@@ -26,9 +25,8 @@ Goto `https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe` and s
 ### Clone the LAB repo 
 Clone following repo in `/environment` in your Cloud9 env
 ```
-git clone https://github.com/40net-cloud/fortigate-cnf-sse-workshop.git
+git clone https://github.com/40net-cloud/xpert2023_aws_networking_demystified.git
 ```
-
 ## LAB 1: Deploy a fortigatecnf playground for intra-subnet / single vpc
 See [lab1](./lab1.md)
 
