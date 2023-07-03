@@ -14,7 +14,7 @@ Extract the private SSH key
 terraform output -raw private_key >key.pem
 chmod 400 key.pem
 ```
-Access your Jumpbox
+Access your Jumpbox from your Cloud9 IDE
 ```
 ssh -i ./key.pem ubuntu@<jumpbox>
 ```
