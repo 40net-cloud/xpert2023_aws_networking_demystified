@@ -27,5 +27,9 @@ EOF
   tags = {
     Name = "${var.prefix}-${var.environment}-ec2-wwwdemo3"
   }
+
+  depends_on = [
+    aws_nat_gateway.natgw-main
+  ]
 }
 
