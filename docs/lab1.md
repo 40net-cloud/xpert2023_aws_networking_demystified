@@ -25,6 +25,11 @@ scp -i key.pem ./key.pem ubuntu@<jumpbox>:key.pem
 ## Test connectivity
 <img src="..\images\flow_diagram.png">
 
+## Things to try
+- traffic is allowed on port 8080 and 8090
+- checkout the routing
+- check egress connectivity (ex. `curl https://www.fortinet.com`)
+
 ## Deploy fortigatecnf
 - Install / verify cross account setup
 - Deploy fortigatecnf and endpoints
