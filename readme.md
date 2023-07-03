@@ -20,7 +20,7 @@ Create an AWS Cloud9 instance.
 An AWS_ACCESS_KEY and AWS_SECRET_KEY is already created (see your instructor)
 
 ### Subscribe to the ubuntu-jammy
-Goto `https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe` and subscribe and accept the terms.
+Goto [https://aws.amazon.com/marketplace/pp?sku=4s6b2r2vfe46kyul508kf459f](https://aws.amazon.com/marketplace/pp?sku=4s6b2r2vfe46kyul508kf459f) and subscribe and accept the terms.
 
 ### Clone the LAB repo 
 Clone following repo in `/environment` in your Cloud9 env
