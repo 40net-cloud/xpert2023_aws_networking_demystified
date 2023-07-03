@@ -2,8 +2,9 @@
 
 ## 1. Verify access
 ### AWS Console
+Access the AWS console Access the AWS console [https://aws.amazon.com/console/](https://aws.amazon.com/console/)
 ```
-account_id / studentcnp / <see your instructor>
+AccountID / IAM user name / Password <see your instructor>
 ```
 ### Forticloud / FortigateCNF
 ```
