@@ -39,8 +39,8 @@ See [lab2](./docs/lab2.md)
 At the end of our session: 
 - remove the endpoints form your TF `variables.tf`
 - re-run your TF
-- destroy your terraform infra
 - remove all Fortigate CNF instancesfrom the Fortigate CNF UI
+- destroy your terraform infra
 - remove all registered accounts from the Fortigate CNF UI
 - remove cloudformation `FortinetFWaaSCrossAccountSetup` from AWS region `Oregon`
 - remove the access key and secret (NOT the IAM user !!)
