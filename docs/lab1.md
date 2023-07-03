@@ -32,6 +32,7 @@ scp -i key.pem ./key.pem ubuntu@<jumpbox>:key.pem
 
 ## Deploy fortigatecnf
 In the next part of the LAB, we'll setup FortigateCNF to inspect traffic in between both subnets.
+<img src="..\images\architecture1-Single VPC - East-West.drawio.png">
 - In AWS marketplace, search for **Fortigate CNF** and signup for the trail. <br>
   Use the provided Forticloud account by your instructor, (You do not need to create one).<br>
   If your AWS account statues that your trail is expired, **contact your instructor** to setup consumption based pricing.<br>
