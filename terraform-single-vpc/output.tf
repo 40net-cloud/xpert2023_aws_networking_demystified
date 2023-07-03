@@ -35,11 +35,11 @@ output "jumbox_public_ip" {
 }
 
 output "demo2_private_ip" {
-   value = "${aws_instance.jumpbox.public_ip}"
+   value = "${aws_instance.wwwdemo2.public_ip}"
 }
 
 output "demo3_private_ip" {
-   value = "${aws_instance.jumpbox.public_ip}"
+   value = "${aws_instance.wwwdemo3.public_ip}"
 }
 
 output "private_key" {
