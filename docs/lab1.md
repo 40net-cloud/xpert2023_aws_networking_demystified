@@ -61,8 +61,6 @@ In the next part of the LAB, we'll setup FortigateCNF to inspect traffic in betw
 - ...
 
 ## Cleanup for next lab
-- remove GWLBe from TF `variables.tf` and re-run TF
-- remove endpoint form Fortigate CNF UI
-- Destroy playground
+See [readme.me](../readme.md)
 
 
