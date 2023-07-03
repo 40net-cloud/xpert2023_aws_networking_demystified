@@ -31,8 +31,11 @@ scp -i key.pem ./key.pem ubuntu@<jumpbox>:key.pem
 - check egress connectivity (ex. `curl https://www.fortinet.com`)
 
 ## Deploy fortigatecnf
-- Install / verify cross account setup
-- Deploy fortigatecnf and endpoints
+In the next part of the LAB, we'll setup FortigateCNF to inspect traffic in between both subnets.
+- In AWS marketplace, search for Fortigate CNF and signup for the trail. <br>
+  Use the provided Forticloud account by your instructor.<br>
+  If your AWS account statues that your trail is expired, contact your instructor to setup consumption based pricing.<br>
+- Follow the instructions to add your ACCOUNT
 - Test connectivity
 - Update the TF script with GWLBe and re-run TF
 - Test connectivity
