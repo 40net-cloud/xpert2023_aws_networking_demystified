@@ -22,6 +22,10 @@ Access your Jumpbox from your Cloud9 IDE
 ```
 ssh -i ./key.pem ubuntu@<jumpbox>
 ```
+From your jumpbox, you can access wwwdemo2 and wwwdemo3.
+```
+ssh -i key.pem ubuntu@<demo2_private_ip>
+```
 
 ## Test connectivity
 <img src="..\images\flow_diagram.png">
