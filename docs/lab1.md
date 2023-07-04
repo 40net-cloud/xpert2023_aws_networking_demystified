@@ -59,7 +59,7 @@ In the next part of the LAB, we'll setup FortigateCNF to inspect traffic in betw
 ![endpoints.png](../images/endpoints.png)
 ![completed_config.png](../images/completed_config.png)
 
--   When completed, you can find the endpoint name in the AWS console.
+-   When completed, you can find the endpoint name in the AWS console.<br>
     Update the TF `variables.tf` with GWLBe name and re-run TF
 
 ![aws_endpoint.png](../images/aws_endpoint.png)
