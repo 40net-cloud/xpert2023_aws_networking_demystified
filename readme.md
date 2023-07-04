@@ -2,11 +2,12 @@
 
 ## 1. Verify Access
 ### AWS Console Login
-Access the AWS console using this URL: [https://aws.amazon.com/console/](https://aws.amazon.com/console/)
+Access the AWS console using this URL: [AWS Console Login](https://aws.amazon.com/console/)
 ```
 AccountID / IAM user name / Password (check with your instructor)
 ```
 ### FortiCloud / FortigateCNF Login
+You can login using this URL: [FortiGate CNF Login](https://fortigatecnf.com/admin-portal/authentication/login)
 ```
 student<xx>@kubiosec.tech / Password (check with your instructor)
 ```
