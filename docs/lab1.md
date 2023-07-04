@@ -38,7 +38,7 @@ ssh -i key.pem ubuntu@<demo2_private_ip>
 ## Deploy fortigatecnf
 In the next part of the LAB, we'll setup FortigateCNF to inspect traffic in between both subnets.
 
-![East-West.drawio.png](../images/architecture1-Single VPC - East-West.drawio.png)
+![East-West.drawio.png](../images/architecture1-Single VPC-East-West.drawio.png)
 
 
 - In AWS marketplace, search for **Fortigate CNF** and signup for the trail. <br>
