@@ -1,4 +1,4 @@
-# LAB#1: intra-subnet single VPC use case
+# LAB#1: Intra-subnet Single VPC Use-case
 
 ## Deploy the environment
 Inside the cloned repo:
@@ -60,7 +60,7 @@ In the next part of the LAB, we'll setup FortigateCNF to inspect traffic in betw
 ![completed_config.png](../images/completed_config.png)
 
 -   When completed, you can find the endpoint name in the AWS console.<br>
-    Update the TF `variables.tf` with GWLBe name and re-run Terraform.
+    Update the Terraform `variables.tf` with GWLBe name and re-run Terraform.
 
 ![aws_endpoint.png](../images/aws_endpoint.png)
 
