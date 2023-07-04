@@ -29,7 +29,7 @@ Clone following repo in `/environment` in your Cloud9 env
 ```
 git clone https://github.com/40net-cloud/xpert2023_aws_networking_demystified.git
 ```
-## LAB#1: Deploy a FortigateCNF playground for intra-subnet / single VPC
+## LAB#1: Deploy a FortigateCNF Playground for Intra-subnet / Single VPC
 See [lab1](./docs/lab1.md)
 
 ## Cleanup 
