@@ -49,7 +49,7 @@ In the next part of the LAB, we'll setup FortigateCNF to inspect traffic in betw
 ![onboarded.png](../images/onboarded.png)
 
 - Follow the instructions to add your AWS Account ID
-<br>
+  
 ![AWS_account_cft.png](../images/AWS_account_cft.png)
 
 - Create a CNF Instances and follow the instructions.<br>
