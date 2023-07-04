@@ -44,12 +44,15 @@ In the next part of the LAB, we'll setup FortigateCNF to inspect traffic in betw
 - In AWS marketplace, search for **Fortigate CNF** and signup for the trail. <br>
   Use the provided Forticloud account by your instructor, (You do not need to create one).<br>
   *If your AWS account states that your trail is expired, **contact your instructor** to setup consumption based pricing*.<br>
+![onboarded.png](../images/onboarded.png)
 
 - Follow the instructions to add your AWS Account ID
+![AWS_account_cft.png](../images/AWS_account_cft.png)
 
 - Create a CNF Instances and follow the instructions.<br>
   Use `Ireland region - eu-west-1`<br>
   When completed, you can find the endpoint name in the AWS console.
+![add_cnf.png](../images/Aadd_cnf.png)
 
 - Update the TF `variables.tf` with GWLBe name and re-run TF
 
