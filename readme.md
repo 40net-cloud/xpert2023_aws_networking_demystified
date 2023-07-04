@@ -29,8 +29,11 @@ Clone following repo in `/environment` in your Cloud9 env
 ```
 git clone https://github.com/40net-cloud/xpert2023_aws_networking_demystified.git
 ```
-## LAB#1: Deploy a FortigateCNF Playground for Intra-subnet / Single VPC
-See [lab1](./docs/lab1.md)
+## LAB#1: Intra-Subnet / Single-VPC Use-case
+See [Lab1](./docs/lab1.md)
+
+## LAB#2: Transit Gateway (TGW) Centralised Inspection Use-case
+See [Lab2](./docs/lab2.md)
 
 ## Cleanup 
 At the end of our session destroy all environments: 
