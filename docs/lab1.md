@@ -37,6 +37,7 @@ ssh -i key.pem ubuntu@<demo2_private_ip>
 
 ## Deploy fortigatecnf
 In the next part of the LAB, we'll setup FortigateCNF to inspect traffic in between both subnets.
+
 <br>
 ![East-West.drawio.png](../images/architecture1-Single-VPC-East-West.drawio.png)
 
@@ -55,7 +56,7 @@ In the next part of the LAB, we'll setup FortigateCNF to inspect traffic in betw
   Use `Ireland region - eu-west-1`<br>
   When completed, you can find the endpoint name in the AWS console.
   
-![add_cnf.png](../images/Aadd_cnf.png)
+![add_cnf.png](../images/add_cnf.png)
 
 - Update the TF `variables.tf` with GWLBe name and re-run TF
 
