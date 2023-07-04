@@ -28,7 +28,7 @@ ssh -i key.pem ubuntu@<demo2_private_ip>
 ```
 
 ## Test connectivity
-<img src="..\images\flow_diagram.png">
+![Flow Diagram](..\images\flow_diagram.png)
 
 ## Things to try
 - traffic is allowed on port 8080 and 8090 on both ec2 instances (wwwdemo2 and and wwwdemo3)
@@ -38,7 +38,7 @@ ssh -i key.pem ubuntu@<demo2_private_ip>
 ## Deploy fortigatecnf
 In the next part of the LAB, we'll setup FortigateCNF to inspect traffic in between both subnets.
 
-<img src="..\images\architecture1-Single VPC - East-West.drawio.png">
+![East-West.drawio.png](..\images\architecture1-Single VPC - East-West.drawio.png)
 
 - In AWS marketplace, search for **Fortigate CNF** and signup for the trail. <br>
   Use the provided Forticloud account by your instructor, (You do not need to create one).<br>
