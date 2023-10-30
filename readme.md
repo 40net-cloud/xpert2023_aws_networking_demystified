@@ -38,7 +38,7 @@ git clone https://github.com/40net-cloud/xpert2023_aws_networking_demystified.gi
 ## LAB#1: Lab Setup: Intra-Subnet / Single-VPC Use-case
 See [Lab1](./docs/lab1 Lab Setup.md)
 
-## Environment cleanup at end of all labs
+## Environment cleanup after finishing all labs
 At the end of our session destroy all environments: 
 - remove the endpoints form your TF `variables.tf`
 - re-run your TF `terraform apply`
