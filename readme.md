@@ -6,11 +6,6 @@ Access the AWS console using this URL: [AWS Console Login](https://aws.amazon.co
 ```
 AccountID / IAM user name / Password (check with your instructor)
 ```
-### FortiCloud / FortigateCNF Login
-You can login using this URL: [FortiGate CNF Login](https://fortigatecnf.com/admin-portal/authentication/login)
-```
-student<xx>@kubiosec.tech / Password (check with your instructor)
-```
 
 ## 2. Prepare a LAB environment
 <img src=".\images\management-access.png">
