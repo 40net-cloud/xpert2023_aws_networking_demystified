@@ -39,9 +39,15 @@ student<xx>@kubiosec.tech / Password (check with your instructor)
 ![completed_config.png](../images/completed_config.png)
 
 -   When completed, you can find the endpoint name in the AWS console.<br>
-    Update the Terraform `variables.tf` with GWLBe name and re-run Terraform.
 
 ![aws_endpoint.png](../images/aws_endpoint.png)
+
+- Reroute traffic to FortiGate CNF
+    Two ways to do this:
+      1) Manually, through updating the subnets routing table do direct the traffic to the Gateway Load Balancer endpoint.
+      2) Programmatically, through Terraform. We will use this method.
+            Return to the Cloud9 environment and make sure your syntax is showing the jumpbox.
+            Update the Terraform `variables.tf` with GWLBe name and re-run Terraform.
 
 - Traffic should be routed through Fortigate CNF
   
