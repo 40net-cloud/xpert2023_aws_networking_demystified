@@ -8,11 +8,11 @@ In this part of the LAB, we'll setup FortigateCNF to inspect traffic in between 
 ![East-West.drawio.png](../images/architecture1-Single-VPC-East-West.drawio.png)
 
 
-- In AWS marketplace, search for **Fortigate CNF** and signup for the trail. <br>
+- In AWS marketplace, under "Discover Products", search for **Fortigate CNF** and signup for the trail. <br>
   Use the provided FortiCloud account by your instructor, (You do not need to create one).<br>
-  *If your AWS account states that your trail is expired, **contact your instructor** to setup consumption based pricing*.<br>
+  *If your AWS account states that your trail is expired, select the "Public" offer type to set up consumption-based pricing*.<br>
   <br>
-![onboarded.png](../images/onboarded.png)
+![FortiGateCNFonMarketPlace.png](../images/FortiGateCNFonMarketPlace.png)
 
 - Follow the instructions to add your AWS Account ID
   
