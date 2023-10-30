@@ -60,7 +60,8 @@ student<xx>@kubiosec.tech / Password (check with your instructor)
 - Check subnets routing on AWS console
 
 
-## Note: extra security features (like IPS inspection) requires having FortiManager to manage the FortiGate CNF instance and push the required policies and security profiles. This is out of scope for this lab.
+## Note: 
+extra security features (like IPS inspection) requires having FortiManager to manage the FortiGate CNF instance and push the required policies and security profiles. This is out of scope for this lab.
 
 
 ## Cleanup
