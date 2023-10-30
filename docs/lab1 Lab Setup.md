@@ -15,6 +15,7 @@ terraform output -raw private_key >key.pem
 chmod 400 key.pem
 ```
 You can use this key to access all the other hosts in the lab, so we need to copy it to the Jumpbox.
+Get the public IPv4 address of the jumpbox EC2 instance "fortigatecnf-dev-ec2-jumpbox", replace the below <jumpbox> with the public IPv4 address
 ```
 scp -i key.pem ./key.pem ubuntu@<jumpbox>:key.pem
 ```
