@@ -44,8 +44,9 @@ student<xx>@kubiosec.tech / Password (check with your instructor)
 
 - Reroute traffic to FortiGate CNF
     Two ways to do this:
-      1) Manually, through updating the subnets routing table do direct the traffic to the Gateway Load Balancer endpoint.
-      2) Programmatically, through Terraform. We will use this method.
+
+  1) Manually, through updating the subnets routing table to direct the traffic to the Gateway Load Balancer endpoint; or
+  2) Programmatically, through Terraform. We will use this method.
             Return to the Cloud9 environment and make sure your syntax is showing the jumpbox.
             Update the Terraform `variables.tf` with GWLBe name and re-run Terraform.
 
