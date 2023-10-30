@@ -25,7 +25,8 @@ student<xx>@kubiosec.tech / Password (check with your instructor)
 ```
 
 - Step#3 Launch FortiGate CNF CloudFormation template
-  to deploy required resources for the integration between your AWS account(s) and Fortinet AWS account(s) where the FortiGate CNF is located.
+
+  this template will deploy the required resources that facilitates the integration between your AWS account(s) and Fortinet AWS account(s) where the FortiGate CNF resides.
 
 - Step 4: Launch FortiGate CNF Follow the instructions to add your AWS Account ID
   
@@ -54,13 +55,12 @@ student<xx>@kubiosec.tech / Password (check with your instructor)
   
 ## Things to try
 - ex. allow traffic to port 8080 and block 8090
-- Create a dynamic address group
-- Chec the routing
-- ...
+- Create a dynamic address. Which cloud-native dynamic attribute could be configured under for a dynamic address?
+- Add the dynamic address to a firewall policy and test traffic filtering.
+- Check subnets routing on AWS console
 
 
-
-
+## Note: extra security features (like IPS inspection) requires having FortiManager to manage the FortiGate CNF instance and push the required policies and security profiles. This is out of scope for this lab.
 
 
 ## Cleanup
