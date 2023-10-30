@@ -25,7 +25,7 @@ student<xx>@kubiosec.tech / Password (check with your instructor)
 ```
 
 - Step#3 Launch FortiGate CNF CloudFormation template
-
+  to deploy required resources for the integration between your AWS account(s) and Fortinet AWS account(s) where the FortiGate CNF is located.
 
 - Step 4: Launch FortiGate CNF Follow the instructions to add your AWS Account ID
   
