@@ -31,7 +31,7 @@ Clone following repo in `/environment` in your Cloud9 env
 git clone https://github.com/40net-cloud/xpert2023_aws_networking_demystified.git
 ```
 ## LAB#1: Lab Setup: Intra-Subnet / Single-VPC Use-case
-See [Lab1]([./docs/"lab1 Lab Setup".md](https://github.com/40net-cloud/xpert2023_aws_networking_demystified/blob/xpertsummitbenelux2023/docs/lab1%20Lab%20Setup.md))
+See [Lab1](https://github.com/40net-cloud/xpert2023_aws_networking_demystified/blob/xpertsummitbenelux2023/docs/lab1%20Lab%20Setup.md)
 
 ## Environment cleanup after finishing all labs
 At the end of our session destroy all environments: 
