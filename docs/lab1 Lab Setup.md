@@ -41,4 +41,4 @@ Now we have an environment that allows all resources to communicate with each ot
 
 In the next lab, we will see how we can easily integrate FortiGate Cloud Native Firewall (FortiGate CNF) to enhance the security posture of our cloud workload.
 
-Go To [Lab2]([[./docs/"lab1 Lab Setup".md](https://github.com/40net-cloud/xpert2023_aws_networking_demystified/blob/xpertsummitbenelux2023/docs/lab1%20Lab%20Setup.md](https://github.com/40net-cloud/xpert2023_aws_networking_demystified/blob/xpertsummitbenelux2023/docs/lab2%20Enhance%20Security%20by%20deploying%20FortiGate%20CNF.md)https://github.com/40net-cloud/xpert2023_aws_networking_demystified/blob/xpertsummitbenelux2023/docs/lab2%20Enhance%20Security%20by%20deploying%20FortiGate%20CNF.md))
+Go To [Lab2][https://github.com/40net-cloud/xpert2023_aws_networking_demystified/blob/xpertsummitbenelux2023/docs/lab2%20Enhance%20Security%20by%20deploying%20FortiGate%20CNF.md] (https://github.com/40net-cloud/xpert2023_aws_networking_demystified/blob/xpertsummitbenelux2023/docs/lab2%20Enhance%20Security%20by%20deploying%20FortiGate%20CNF.md)
