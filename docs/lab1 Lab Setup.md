@@ -23,7 +23,7 @@ Access your Jumpbox from your Cloud9 IDE
 ```
 ssh -i ./key.pem ubuntu@<jumpbox>
 ```
-From your Jumpbox, you can access wwwdemo2 and wwwdemo3.
+From your Jumpbox, you can access "fortigatecnf-dev-ec2-wwwdemo2" and "fortigatecnf-dev-ec2-wwwdemo3" EC2 instances.
 ```
 ssh -i key.pem ubuntu@<demo2_private_ip>
 ```
