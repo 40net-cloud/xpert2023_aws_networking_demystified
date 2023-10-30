@@ -35,7 +35,7 @@ Clone following repo in `/environment` in your Cloud9 env
 ```
 git clone https://github.com/40net-cloud/xpert2023_aws_networking_demystified.git
 ```
-## LAB#1: Intra-Subnet / Single-VPC Use-case
+## LAB#1: Lab Setup: Intra-Subnet / Single-VPC Use-case
 See [Lab1](./docs/lab1.md)
 
 ## Cleanup 
