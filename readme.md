@@ -7,7 +7,7 @@ Access the AWS console using this URL: [AWS Console Login](https://aws.amazon.co
 AccountID / IAM user name / Password (check with your instructor)
 ```
 
-## 2. Prepare a LAB environment
+## 2. In Lab 1, we will prepare the following LAB environment
 <img src=".\images\management-access.png">
 
 ### Cloud9 AWS environment
@@ -22,7 +22,7 @@ Create an AWS Cloud9 instance:
 ### AWS access-key and secret-key
 An AWS_ACCESS_KEY and AWS_SECRET_KEY is already created (check with your instructor)
 
-### Subscribe to the EC2 AMI
+### Subscribe to the EC2 AMIon AWS Marketplace
 Go to ["Minimal Ubuntu 22.04 LTS - Jammy" AMI](https://aws.amazon.com/marketplace/pp?sku=4s6b2r2vfe46kyul508kf459f) to subscribe and accept the terms.
 
 ### Access the Cloud9 instance, and clone the LAB repo 
