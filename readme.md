@@ -36,9 +36,9 @@ Clone following repo in `/environment` in your Cloud9 env
 git clone https://github.com/40net-cloud/xpert2023_aws_networking_demystified.git
 ```
 ## LAB#1: Lab Setup: Intra-Subnet / Single-VPC Use-case
-See [Lab1](./docs/lab1.md)
+See [Lab1](./docs/lab1 Lab Setup.md)
 
-## Cleanup 
+## Environment cleanup at end of all labs
 At the end of our session destroy all environments: 
 - remove the endpoints form your TF `variables.tf`
 - re-run your TF `terraform apply`
