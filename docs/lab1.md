@@ -1,4 +1,4 @@
-# LAB#1: Intra-subnet Single VPC Use-case
+# LAB#1: Lab Setup: Intra-subnet Single VPC Use-case
 
 ## Deploy the environment
 Inside the cloned repo:
