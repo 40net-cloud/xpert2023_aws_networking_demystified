@@ -18,6 +18,12 @@ In this part of the LAB, we'll setup FortigateCNF to inspect traffic in between 
 
 ![SubscribeToFortiGateCNF.png](../images/SubscribeToFortiGateCNF.png)
 
+- Step#2: Link a new or existing vendor account
+  Login to FortiCloud / FortiGate CNF
+```
+student<xx>@kubiosec.tech / Password (check with your instructor)
+```
+
 - Follow the instructions to add your AWS Account ID
   
 ![AWS_account_cft.png](../images/AWS_account_cft.png)
