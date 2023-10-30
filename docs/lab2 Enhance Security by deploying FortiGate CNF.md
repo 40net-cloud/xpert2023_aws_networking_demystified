@@ -2,7 +2,7 @@
 
 
 ## Deploy FortigateCNF
-In the next part of the LAB, we'll setup FortigateCNF to inspect traffic in between both subnets.
+In this part of the LAB, we'll setup FortigateCNF to inspect traffic in between both subnets.
 
 
 ![East-West.drawio.png](../images/architecture1-Single-VPC-East-West.drawio.png)
