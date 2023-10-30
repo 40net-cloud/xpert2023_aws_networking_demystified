@@ -14,6 +14,10 @@ In this part of the LAB, we'll setup FortigateCNF to inspect traffic in between 
   <br>
 ![FortiGateCNFonMarketPlace.png](../images/FortiGateCNFonMarketPlace.png)
 
+- Click on "Subscribe", then "Set up your account" at the top of the screen, and follow the steps
+
+![SubscribeToFortiGateCNF.png](../images/SubscribeToFortiGateCNF.png)
+
 - Follow the instructions to add your AWS Account ID
   
 ![AWS_account_cft.png](../images/AWS_account_cft.png)
