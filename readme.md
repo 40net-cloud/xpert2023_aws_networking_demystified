@@ -40,7 +40,7 @@ At the end of our session destroy all environments:
 - re-run your TF `terraform apply`
 - remove all Fortigate CNF instancesfrom the Fortigate CNF UI
 - destroy your terraform infra `terraform destroy`
-- remove all registered accounts from the Fortigate CNF UI (wait until the CNF instance is deleted from the "CNF Instances" tab)
+- remove all registered accounts from the Fortigate CNF UI (wait until the CNF instance is deleted from the "CNF Instances" tab ... this can take few minutes)
 - remove cloudformation `FortinetFWaaSCrossAccountSetup` from AWS region `Oregon`
 - remove your Cloud9 instance
 
