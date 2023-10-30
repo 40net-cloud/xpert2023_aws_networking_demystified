@@ -65,6 +65,6 @@ extra security features (like IPS inspection) requires having FortiManager to ma
 
 
 ## Cleanup
-See [Home](./readme.md)
+See [Home]([./readme.md](https://github.com/40net-cloud/xpert2023_aws_networking_demystified/blob/xpertsummitbenelux2023/readme.md)https://github.com/40net-cloud/xpert2023_aws_networking_demystified/blob/xpertsummitbenelux2023/readme.md)
 
 
