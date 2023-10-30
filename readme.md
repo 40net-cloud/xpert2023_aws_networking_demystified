@@ -41,7 +41,7 @@ At the end of our session destroy all environments:
 - remove all Fortigate CNF instancesfrom the Fortigate CNF UI
 - destroy your terraform infra `terraform destroy`
 - remove all registered accounts from the Fortigate CNF UI (wait until the CNF instance is deleted from the "CNF Instances" tab ... this can take few minutes)
-- remove cloudformation `FortinetFWaaSCrossAccountSetup` from AWS region `Oregon`
-- remove your Cloud9 instance
+- remove the cloudformation template 'FortinetForigateStackName' from AWS region eu-west-1 (Ireland)
+- delete your Cloud9 instance
 
 Thank you, the next student will thank you as well as the instructor who knows your name ;-)
