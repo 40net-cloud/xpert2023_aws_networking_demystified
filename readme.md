@@ -30,9 +30,8 @@ Clone following repo in `/environment` in your Cloud9 env
 ```
 git clone https://github.com/40net-cloud/xpert2023_aws_networking_demystified.git
 ```
-## LAB#2: Lab Setup: Intra-Subnet / Single-VPC Use-case
-See [Lab1](https://github.com/40net-cloud/xpert2023_aws_networking_demystified/blob/xpertsummitbenelux2023/docs/lab1%20Lab%20Setup.md)
-
+## LAB 2: Lab Setup: Intra-Subnet / Single-VPC Use-case
+See [Lab 2](https://github.com/40net-cloud/xpert2023_aws_networking_demystified/blob/xpertsummitbenelux2023/docs/lab2%20Enhance%20Security%20by%20deploying%20FortiGate%20CNF.md)
 
 ## Environment cleanup after finishing all labs
 At the end of our session destroy all environments: 
