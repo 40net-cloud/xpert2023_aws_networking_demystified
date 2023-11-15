@@ -37,7 +37,7 @@ See [Lab 1](https://github.com/40net-cloud/xpert2023_aws_networking_demystified/
 At the end of our session destroy all environments: 
 - remove the endpoints form your TF `variables.tf`
 - re-run your TF `terraform apply`
-- remove all Fortigate CNF instancesfrom the Fortigate CNF UI
+- remove all Fortigate CNF instances from the Fortigate CNF UI
 - destroy your terraform infra `terraform destroy`
 - remove all registered accounts from the Fortigate CNF UI (wait until the CNF instance is deleted from the "CNF Instances" tab ... this can take few minutes)
 - remove the cloudformation template 'FortinetForigateStackName' from AWS region eu-west-1 (Ireland)
